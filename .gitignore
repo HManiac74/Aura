@@ -5,3 +5,6 @@ Saved
 Build
 
 *.xcworkspace
+.vs/
+.vsconfig
+*.sln
