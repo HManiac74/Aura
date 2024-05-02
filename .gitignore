@@ -10,3 +10,5 @@ Build
 *.sln
 .vscode/
 *.code-workspace
+.editorconfig
+shadertoolsconfig.json
