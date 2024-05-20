@@ -40,6 +40,6 @@ private:
 
     void CursorTrace();
 
-    TScriptInterface<IEnemyInterface> LastActor;
-    TScriptInterface<IEnemyInterface> ThisActor;
+    TObjectPtr<IEnemyInterface> LastActor;
+    TObjectPtr<IEnemyInterface> ThisActor;
 };
